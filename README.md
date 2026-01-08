@@ -1,5 +1,5 @@
 # 💫 About Me:
-Automation   with Python ,Selenium & Robot framework<br> learning DevOps also<br><br>
+Automation Engineer with hands-on experience in Web UI and API automation using Python, Selenium, and Robot Framework. Enthusiastic DevOps learner passionate about improving software quality and streamlining CI/CD processes.
 
 
 ## 🌐 Socials:
